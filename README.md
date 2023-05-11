@@ -7,4 +7,4 @@
 - Adicione as informações de validação no arquivo googledrive.json
 
 ### Swagger
-A api pode ser testada pelo swagger, utilizando a url do servidor onde foi instalada na rota "/api/docs"
+A api pode ser testada pelo swagger, utilizando a url do servidor onde foi instalada na rota "/api/docs". Ex.: http://127.0.0.1:5000/api/docs
